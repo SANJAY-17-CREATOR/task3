@@ -1,0 +1,9 @@
+# React.js Setup
+npx create-react-app live-editor
+cd live-editor
+npm install socket.io-client react-quill
+
+# Vue.js Setup
+npm create vue@latest live-editor
+cd live-editor
+npm install socket.io-client vue-quill
